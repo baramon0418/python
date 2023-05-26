@@ -1,3 +1,0 @@
-a = "hello"
-a1 = a.capitalize()
-print(a1)
